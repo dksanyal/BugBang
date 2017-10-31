@@ -4,13 +4,13 @@ They are used in the following paper:
 
 Nitish Pandey, Debarshi Kumar Sanyal, Abir Hudait, and Amitava Sen, “Automated Classification of Software Issue Reports Using Machine Learning Techniques: An Empirical Study,” Innovations in Systems and Software Engineering, Springer. (Accepted, March 2017) (doi:10.1007/s1133)
 
-SCRIPTS:
+Scripts:
+
 BugBang_rel_v4.0.R =>    Main R script for issue classification
 
 datasets/exp1   =>       Datasets for experiment 1
 
 datasets/exp2   =>       Datasets for experiment 2
-
 
 
 Commandline in linux:
