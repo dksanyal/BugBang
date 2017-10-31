@@ -1,5 +1,5 @@
 # BugBang
-This repository contains an R script to classify an issue report from JIRA as referring to a bug or not. It also contains associated datasets.
+This repository contains an R script to classify an issue report from JIRA as referring to a bug or not. It also contains associated datasets (to be added).
 They are used in the following paper:
 
 Nitish Pandey, Debarshi Kumar Sanyal, Abir Hudait, and Amitava Sen, “Automated Classification of Software Issue Reports Using Machine Learning Techniques: An Empirical Study,” Innovations in Systems and Software Engineering, Springer. (Accepted, March 2017) (doi:10.1007/s1133)
