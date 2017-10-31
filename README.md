@@ -15,4 +15,4 @@ datasets/exp2   =>       Datasets for experiment 2
 
 Commandline in linux:
 
-Rscript BugBang.R --infile="./datasets/exp1/http_client.csv" --outfile="./out/classification_http_client.out" --max_terms_in_dtm=0.25 --normalize=3 --cv_fold=10
+Rscript BugBang_rel_v4.0.R --infile="./datasets/exp1/http_client.csv" --outfile="./out/classification_http_client.out" --max_terms_in_dtm=0.25 --normalize=3 --cv_fold=10
