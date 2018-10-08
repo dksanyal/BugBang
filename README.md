@@ -4,7 +4,7 @@ They are used in the following paper:
 
 Nitish Pandey, Debarshi Kumar Sanyal, Abir Hudait, and Amitava Sen, “Automated Classification of Software Issue Reports Using Machine Learning Techniques: An Empirical Study,” Innovations in Systems and Software Engineering, Springer. (Accepted, March 2017) (doi:10.1007/s1133)
 
-Please cite the above paper if you use the data/scripts in this repository. I am grateful to Prof. Hideaki Hata for the data (which were, however, augmented with records from JIRA)
+Please cite the above paper if you use the scripts in this repository. I thank Prof. Hideaki Hata for the data (which were then augmented with records from JIRA).
 
 
 Contents
